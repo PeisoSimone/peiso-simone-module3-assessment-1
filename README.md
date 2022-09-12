@@ -1,1 +1,1 @@
-"# Building a basic React Native app with up to 5  screens that include a splash screen, login, dashboard, and a core feature of an app of choice." 
+"# Please find the assessment in the Master branch not Main branch." 
